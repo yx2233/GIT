@@ -56,6 +56,8 @@
 	git add -A -> git commit -m "" -> git push origin master
 2.从GitHub上克隆项目
 	git clone https://github.com/yx2233/gshop_client.git
+3.从GitHub上拉取项目到本地
+	git pull 	本地没有修改的前提下
 
 
 
