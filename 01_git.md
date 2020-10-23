@@ -59,5 +59,7 @@
 3.从GitHub上拉取项目到本地
 	git pull 	本地没有修改的前提下
 
-
+### 在多台电脑上往github上推送代码
+	桌面右键->git bash here->输入 ssh-keygen -t rsa -C "y185455445@163.com"
+	会提示你公匙，密匙所在的位置，将密匙添加到github的密匙设置上即可
 
